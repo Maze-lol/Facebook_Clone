@@ -1,0 +1,7 @@
+SECRETE_KEY.txt
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+media
